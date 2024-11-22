@@ -6,10 +6,10 @@ checking for altzone in time.h with  -Werror... no
 creating Makefile
 
 current directory: C:/Users/patil/pesticides_products_details/vendor/bundle/ruby/3.3.0/gems/date-3.4.0/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20241122-22520-98rjhk sitelibdir\=./.gem.20241122-22520-98rjhk clean
+make DESTDIR\= sitearchdir\=./.gem.20241122-23684-j54o7c sitelibdir\=./.gem.20241122-23684-j54o7c clean
 
 current directory: C:/Users/patil/pesticides_products_details/vendor/bundle/ruby/3.3.0/gems/date-3.4.0/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20241122-22520-98rjhk sitelibdir\=./.gem.20241122-22520-98rjhk
+make DESTDIR\= sitearchdir\=./.gem.20241122-23684-j54o7c sitelibdir\=./.gem.20241122-23684-j54o7c
 generating date_core-x64-mingw-ucrt.def
 compiling date_core.c
 compiling date_parse.c
@@ -18,8 +18,8 @@ compiling date_strptime.c
 linking shared-object date_core.so
 
 current directory: C:/Users/patil/pesticides_products_details/vendor/bundle/ruby/3.3.0/gems/date-3.4.0/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20241122-22520-98rjhk sitelibdir\=./.gem.20241122-22520-98rjhk install
-/usr/bin/install -c -m 0755 date_core.so ./.gem.20241122-22520-98rjhk
+make DESTDIR\= sitearchdir\=./.gem.20241122-23684-j54o7c sitelibdir\=./.gem.20241122-23684-j54o7c install
+/usr/bin/install -c -m 0755 date_core.so ./.gem.20241122-23684-j54o7c
 
 current directory: C:/Users/patil/pesticides_products_details/vendor/bundle/ruby/3.3.0/gems/date-3.4.0/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20241122-22520-98rjhk sitelibdir\=./.gem.20241122-22520-98rjhk clean
+make DESTDIR\= sitearchdir\=./.gem.20241122-23684-j54o7c sitelibdir\=./.gem.20241122-23684-j54o7c clean

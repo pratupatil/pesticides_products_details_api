@@ -3,10 +3,10 @@ C:/Ruby33-x64/bin/ruby.exe extconf.rb
 creating Makefile
 
 current directory: C:/Users/patil/pesticides_products_details/vendor/bundle/ruby/3.3.0/gems/ed25519-1.3.0/ext/ed25519_ref10
-make DESTDIR\= sitearchdir\=./.gem.20241122-22520-sri96m sitelibdir\=./.gem.20241122-22520-sri96m clean
+make DESTDIR\= sitearchdir\=./.gem.20241122-23684-3zau8p sitelibdir\=./.gem.20241122-23684-3zau8p clean
 
 current directory: C:/Users/patil/pesticides_products_details/vendor/bundle/ruby/3.3.0/gems/ed25519-1.3.0/ext/ed25519_ref10
-make DESTDIR\= sitearchdir\=./.gem.20241122-22520-sri96m sitelibdir\=./.gem.20241122-22520-sri96m
+make DESTDIR\= sitearchdir\=./.gem.20241122-23684-3zau8p sitelibdir\=./.gem.20241122-23684-3zau8p
 generating ed25519_ref10-x64-mingw-ucrt.def
 compiling ed25519_ref10.c
 In file included from C:/Ruby33-x64/include/ruby-3.3.0/ruby/ruby.h:15,
@@ -129,8 +129,8 @@ compiling verify.c
 linking shared-object ed25519_ref10.so
 
 current directory: C:/Users/patil/pesticides_products_details/vendor/bundle/ruby/3.3.0/gems/ed25519-1.3.0/ext/ed25519_ref10
-make DESTDIR\= sitearchdir\=./.gem.20241122-22520-sri96m sitelibdir\=./.gem.20241122-22520-sri96m install
-/usr/bin/install -c -m 0755 ed25519_ref10.so ./.gem.20241122-22520-sri96m
+make DESTDIR\= sitearchdir\=./.gem.20241122-23684-3zau8p sitelibdir\=./.gem.20241122-23684-3zau8p install
+/usr/bin/install -c -m 0755 ed25519_ref10.so ./.gem.20241122-23684-3zau8p
 
 current directory: C:/Users/patil/pesticides_products_details/vendor/bundle/ruby/3.3.0/gems/ed25519-1.3.0/ext/ed25519_ref10
-make DESTDIR\= sitearchdir\=./.gem.20241122-22520-sri96m sitelibdir\=./.gem.20241122-22520-sri96m clean
+make DESTDIR\= sitearchdir\=./.gem.20241122-23684-3zau8p sitelibdir\=./.gem.20241122-23684-3zau8p clean

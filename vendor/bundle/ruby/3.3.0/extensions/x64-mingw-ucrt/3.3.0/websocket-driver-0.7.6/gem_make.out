@@ -3,17 +3,17 @@ C:/Ruby33-x64/bin/ruby.exe extconf.rb
 creating Makefile
 
 current directory: C:/Users/patil/pesticides_products_details/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20241122-22520-4jfcsq sitelibdir\=./.gem.20241122-22520-4jfcsq clean
+make DESTDIR\= sitearchdir\=./.gem.20241122-23684-ktsr5 sitelibdir\=./.gem.20241122-23684-ktsr5 clean
 
 current directory: C:/Users/patil/pesticides_products_details/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20241122-22520-4jfcsq sitelibdir\=./.gem.20241122-22520-4jfcsq
+make DESTDIR\= sitearchdir\=./.gem.20241122-23684-ktsr5 sitelibdir\=./.gem.20241122-23684-ktsr5
 generating websocket_mask-x64-mingw-ucrt.def
 compiling websocket_mask.c
 linking shared-object websocket_mask.so
 
 current directory: C:/Users/patil/pesticides_products_details/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20241122-22520-4jfcsq sitelibdir\=./.gem.20241122-22520-4jfcsq install
-/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20241122-22520-4jfcsq
+make DESTDIR\= sitearchdir\=./.gem.20241122-23684-ktsr5 sitelibdir\=./.gem.20241122-23684-ktsr5 install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20241122-23684-ktsr5
 
 current directory: C:/Users/patil/pesticides_products_details/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20241122-22520-4jfcsq sitelibdir\=./.gem.20241122-22520-4jfcsq clean
+make DESTDIR\= sitearchdir\=./.gem.20241122-23684-ktsr5 sitelibdir\=./.gem.20241122-23684-ktsr5 clean
